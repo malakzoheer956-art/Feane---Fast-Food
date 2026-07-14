@@ -44,4 +44,4 @@ git clone [https://github.com/malkordi4-dev/github-training-project.git](https:/
 **Major:** Software and Database Programming
 **College:** University College of Applied Sciences (UCAS)
 ---
-*Developed with ❤️ as part of Academic Training 2024.*
+*Developed with ❤️ *
