@@ -27,3 +27,8 @@ To run this project on your local machine, follow these steps:
    ```bash
    git clone [https://github.com/malakzoheer956-art/Feane---Fast-Food.git](https://github.com/malakzoheer956-art/Feane---Fast-Food.git)
 
+
+📸 Screenshots
+<img width="1296" height="5554" alt="imag1" src="https://github.com/user-attachments/assets/2f0e22a4-2a44-4fd1-84cf-85217472fe0a" />
+
+
